@@ -1,0 +1,36 @@
+#ext_menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-a .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-2 H1 {
+  text-align: center;
+}
+#header3-5 H3 {
+  color: #e25041;
+}
+#content1-6 P {
+  color: #252525;
+}
+#content1-6 BLOCKQUOTE {
+  color: #252525;
+}
+#content5-4 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-article {
+  color: #fff;
+}
+#footer1-8 P {
+  color: #252525;
+  text-align: center;
+}
